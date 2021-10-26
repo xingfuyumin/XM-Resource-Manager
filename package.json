@@ -1,0 +1,22 @@
+{
+  "name": "xm-resource-manager",
+  "version": "1.0.0",
+  "description": "可以通过ssh,ftp协议访问远程服务器或直接操作本地服务器的文件管理应用",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingfuyumin/XM-Resource-Manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingfuyumin/XM-Resource-Manager/issues"
+  },
+  "homepage": "https://github.com/xingfuyumin/XM-Resource-Manager#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
